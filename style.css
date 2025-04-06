@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    
+    font-family: "Roboto", sans-serif;
+    padding: 16px 32px;
+}
+body.dark{
+    background-color: #27292d;
+    color: rgb(227, 224, 224);
+}
+h1{
+    margin-bottom: 48px;
+}
+.container{
+    border: 1px solid blue;
+    margin-top: 16px;
+    padding: 32px;
+    background-color: white;
+    color: black;
+
+}
+.container.dark{
+    background-color: #27292d;
+    color: rgb(227, 224, 224);
+}
+
