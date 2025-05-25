@@ -1,5 +1,10 @@
 # DARK-LIGHT-MODE
 DARK-LIGHT-MODE is a simple and responsive web component that allows users to toggle between dark and light themes. Built using HTML, CSS, and JavaScript, this project demonstrates how to implement theme switching to enhance user experience.
+# Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript 
 
 # Project Structure
 ```
