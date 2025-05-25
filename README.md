@@ -26,3 +26,6 @@ DARK-LIGHT-MODE/
 2.Navigate to the project folder:
 
   cd DARK-LIGHT-MODE
+# License
+This project is open-source and available under the MIT License.
+
