@@ -18,3 +18,11 @@ DARK-LIGHT-MODE/
 
 - Easy to integrate into existing projects
 
+# How to Use
+1.Clone the repository:
+
+  git clone https://github.com/alkashivareddi/DARK-LIGHT-MODE.git
+  
+2.Navigate to the project folder:
+
+  cd DARK-LIGHT-MODE
